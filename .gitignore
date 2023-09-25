@@ -1,0 +1,11 @@
+/target/
+/.classpath
+/.project
+/.factorypath
+/.idea/
+/.settings/
+plataforma.iml
+misc.xml
+modules.xml
+
+/bin/
